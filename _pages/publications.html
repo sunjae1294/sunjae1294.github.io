@@ -11,26 +11,89 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Conference and Journal Papers</h2>
 
+<ul>
+  <li style="margin-bottom: 15px;">
+    <strong>(MobiCom '24) MobileGPT: Augmenting LLM wih Human-like Memory for Mobile Task Automation</strong><br>
+    <span style="font-size: 0.8em;"><u>Sunjae Lee</u>, Junyoung Choi, Jungjae Lee, Munim Hasan Wasi, Hojun Choi, Steven Y. Ko, Sangeun Oh<sup>†</sup>, Insik Shin<sup>†</sup> (<sup>†</sup>Co-corresponding authors)<br>
+      In Proceedings of the 28th ACM International Conference on Mobile Computing and Networking (MobiCom 2024), Washington D.C, USA, 2024 </span>
+  </li>
 
+  <li style="margin-bottom: 15px;">
+    <strong>(CHI '24) FLUID-IoT: Flexible and Granular Access Control in Shared IoT Environments via-UI-Level Control Distribution</strong><br>
+    <span style="font-size: 0.8em;"><u>Sunjae Lee*</u>, Minwoo Jeong*, Daye Song, Junyoung Choi, Seoyun Son, Jean Y. Song<sup>†</sup>, and Insik Shin<sup>†</sup> (* Equal contribution, <sup>†</sup>Co-corresponding authors)<br>
+    In Proceedings of the ACM/SIGCHI Conference on Human Factors in Computing Systems (CHI 2024), Honolulu, Hawaii, USA, 2024 </span>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <strong>(MobiSys '23) MixMax: Leveraging Heterogeneous Batteries to Alleviate Low Battery Experience</strong><br>
+    <span style="font-size: 0.8em;">Jaeheon Kwak, <u>Sunjae Lee</u>, Dae R. Jeong, Arjun Kumar, Dongjae Shin, Ilju Kim, Donghawa Shing, Kilho Lee, Junkyu Lee, and Insik Shin<br>
+    In Proceedings of the 21st ACM International Conference on Mobile Systems, Applications, and Services (MobiSys '23), Orlando, Florida, USA, 2023</span>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <strong>(CHI '23) It is Okay to be Distracted: How Real-time Transcriptions Facilitate Online Meeting with Distraction</strong><br>
+    <span style="font-size: 0.8em;">Seoyun Son, Junyoung Choi, <u>Sunjae Lee</u>, Jean Y. Song, and Insik Shin<br>
+    In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI '23), Hamburg, Germany, 2023</span>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <strong>(MobiCom '22) A-Mash: Providing Single-App Illusion for Multi-App Use through User-centric UI Mashup</strong><br>
+    <span style="font-size: 0.8em;"><u>Sunjae Lee</u>, Hoyoung Kim, Sijung Kim, Sangwook Lee, Hyosu Kim, Jean Young Song, Steve Ko, and Insik Shin<br>
+    In Proceedings of the 28th ACM International Conference on Mobile Computing and Networking (MobiCom '22), Sydney, Australia, 2022</span>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <strong>(MobiCom '21) FLUID-XP: Flexible User Interface Distribution for Cross-Platform Experience</strong><br>
+    <span style="font-size: 0.8em;"><u>Sunjae Lee</u>, Hayeon Lee, Hoyoung Kim, Sangmin Lee, Jeong Woon Choi, Yuseung Lee, Seono Lee, Ahyeon Kim, Jean Young Song, Sangeun Oh, Steven Y. Ko, and Insik Shin<br>
+    In Proceedings of the 27th ACM International Conference on Mobile Computing and Networking (MobiCom '21), New Orleans, Louisiana, USA, 2021</span>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <strong>(MobiCom '19) FLUID: Flexible User Interface Distribution for Ubiquitous Multi-device Interaction</strong><br>
+    <span style="font-size: 0.8em;">Sangeun Oh, Ahyeon Kim, <u>Sunjae Lee</u>, Kilho Lee, Dae R. Jeong, Steven Y. Ko, and Insik Shin<br>
+    In Proceedings of the 25th ACM International Conference on Mobile Computing and Networking (MobiCom '19), Los Cabos, Mexico, 2019 (<strong>Best Paper Award</strong>)</span>
+  </li>
+</ul>
+
+<h2>Posters, Demos, and Workshop Papers</h2>
+<ul>
+  <li style="margin-bottom: 15px;">
+    <strong>(MobiCom '19 Demo) FLUID: Multi-device Mobile Platform for Flexible User Interface Distribution</strong><br>
+    <span style="font-size: 0.8em;">Sangeun Oh, Ahyeon Kim, <u>Sunjae Lee</u>, Kilho Lee, Dae R. Jeong, Steven Y. Ko, and Insik Shin<<br>
+    Demo session of the 25th ACM International Conference on Mobile Computing and Networking (MobiCom '19), Los Cabos, Mexico, October 2019 </span>
+  </li>
+</ul>
+
+<h2>Domestic Publications</h2>
+<ul>
+  <li style="margin-bottom: 15px;">
+    <strong>AppLens: A new AR framework connecting legacy mobile apps to AR environment</strong><br>
+    <span style="font-size: 0.8em;">김시정, <u>이선재</u>, 오상은, 신인식<br>
+      2021년 한국컴퓨터종합학술대회 <strong>(우수논문상)</strong>
+    </span>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+    <strong>SwingTracker: Golf putting tracker using smart watch and smart phone </strong><br>
+    <span style="font-size: 0.8em;"><u>이선재</u>, 김아현, 김대희, 김효수, 신인식<br>
+      2018년 한국소프트웨어종합학술대회
+    </span>
+  </li>
+</ul>
+
+<h2>Thesis</h2>
+<ul>
+  <li style="margin-bottom: 15px;">
+    <strong>Towards Ubiquitous and Intelligent Mobile Computing: From UI Distribution to Mobile AI Agents</strong><br>
+    <span style="font-size: 0.8em;"><strong>Sunjae Lee</strong>, Korea Advanced Institute of Science and Technology Ph.D. Thesis, 2025</span>
+  </li>
+
+  <li style="margin-bottom: 15px;">
+  <strong>UI-based Cross-device Screen Distribution</strong><br>
+  <span style="font-size: 0.8em;"><strong>Sunjae Lee</strong>, Korea Advanced Institute of Science and Technology M.S. Thesis, 2021</span>
+</li>
+
+</ul>
 
