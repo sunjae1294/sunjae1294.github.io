@@ -32,12 +32,12 @@ News
 
 Research Interests
 ------
-* Mobile Systems
+* **Mobile Systems**
   - Distributed Computing
   - Mobile Operating Systems Design
   - User Interface Management
   - Edge Computing (IoT)
-* AI Applications
+* **AI Applications**
   - AI-driven Task Automation (Virtual Assistant)
   - AI-powered Interfaces
   - AI-powered Systems Software
