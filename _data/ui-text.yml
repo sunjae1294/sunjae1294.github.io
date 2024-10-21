@@ -166,7 +166,7 @@ tr: &DEFAULT_TR
   email_label                : "E-posta"
   recent_posts               : "Son yazılar"
   undefined_wpm              : "_config.yml dosyasında tanımlanmamış words_per_minute parametresi"
-  comment_form_info          :ㄴ
+  comment_form_info          :
   comment_form_comment_label :
   comment_form_md_info       :
   comment_form_name_label    :
