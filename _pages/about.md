@@ -37,10 +37,11 @@ Research Interests
   - Mobile Operating Systems Design
   - User Interface Management
   - Edge Computing (IoT)
-* **AI Applications**
-  - AI-driven Task Automation (Virtual Assistant)
-  - AI-powered Interfaces
-  - AI-powered Systems Software
+* **AI-driven Systems**
+  - LLM-based Task Automation
+  - Agentic AI systems
+  - RAG systems
+  - Human-AI-Computer Interaction (HACI)
 
 Publications
 ------
