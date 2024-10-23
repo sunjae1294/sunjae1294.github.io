@@ -10,7 +10,7 @@ redirect_from:
 I am currently completing my PhD at <u>KAIST, School of Computing</u>, under the guidance of Professor Insik Shin. 
 <br>
 <br>
-My research focuses on developing <strong>next-generation mobile computing technologies</strong>, spanning the full spectrum of mobile computing, from operating systems design to human-computer interaction (HCI) and applied artificial intelligence (AI). During my PhD, I also served as a <strong>Chief Technology Officer (CTO)</strong> at <a href="https://www.fluiz.ai/">Fluiz</a>, a startup founded by professor Insik Shin, where we're developing next-generation mobile platforms and services.
+My research focuses on developing <strong>Mobile and AI-driven systems for next-generation computing technologies</strong>, encompassing mobile operating systems design, Agentic AI systems, and Human-AI-Computer Interaction (HACI). Alongside my academic work, I serve as the <strong>Chief Technology Officer (CTO)</strong> at <a href="https://www.fluiz.ai/">Fluiz</a>, a startup founded by Professor Shin that develops next-generation mobile platforms and services.
 <br>
 </div>
 
@@ -37,10 +37,11 @@ Research Interests
   - Mobile Operating Systems Design
   - User Interface Management
   - Edge Computing (IoT)
-* **AI Applications**
-  - AI-driven Task Automation (Virtual Assistant)
-  - AI-powered Interfaces
-  - AI-powered Systems Software
+* **AI-driven Systems**
+  - LLM-based Task Automation
+  - Agentic AI systems
+  - RAG systems
+  - Human-AI-Computer Interaction (HACI)
 
 Publications
 ------
