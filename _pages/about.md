@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify;">
-I am currently completing my PhD at <u>KAIST, School of Computing</u>, under the guidance of Professor Insik Shin. 
+I am an Assistant Professor in the Department of Computer Science and Engineering at <strong>Sungkyunkwan University (SKKU).</strong> Prior to joining SKKU, I completed my PhD at KAIST, School of Computing, under the guidance of Professor Insik Shin.
 <br>
 <br>
-My research focuses on developing <strong>Mobile and AI-driven systems for next-generation computing technologies</strong>, encompassing mobile operating systems design, Agentic AI systems, and Human-AI-Computer Interaction (HACI). Alongside my academic work, I serve as the <strong>Chief Technology Officer (CTO)</strong> at <a href="https://www.fluiz.ai/">Fluiz</a>, a startup founded by Professor Shin that develops next-generation mobile platforms and services.
-<br>
+My research lies at the intersection of <strong>mobile systems, artificial intelligence, and human-computer interaction.</strong> I am particularly interested in designing and building <strong>next-generation computing technologies</strong>, including mobile operating systems, Agentic AI systems for task automation (Computer-use agent), and novel Human-AI-Computer Interaction (HACI). 
+
+My research focuses on developing <strong>Mobile and AI-driven systems for next-generation computing technologies</strong>, encompassing mobile operating systems design, Computer-use Agent, Agentic AI systems, and Human-AI-Computer Interaction (HACI). If you are interested in learning more about my research or exploring potential collaborations, please feel free to contact me at sunjae.lee@skku.edu.
 </div>
 
 News
