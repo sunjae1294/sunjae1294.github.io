@@ -69,6 +69,8 @@ Awards and Honors
 ------
 - **Outstanding Ph.D. Dissertation Award**
   - Dissertation title: *Towards Ubiquitous and Intelligent Mobile Computing: From UI Distribution to AI agent*
+- **Minister's Award**, Ministry of Science and ICT, South Korea (Dec. 2024) 
+  - Fluiz won the Minister's Award at the 24th Mobile Technology Festival hosted by Korea Economic Daily.
 - **CES 2023 Innovation Award**
   - Fluiz won the CES 2023 Innovation Award for its multi-device mobile operating system.
 - **Minister's Award**, Ministry of Science and ICT, South Korea (Dec. 2022) 
