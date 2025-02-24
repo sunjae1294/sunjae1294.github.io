@@ -32,14 +32,13 @@ News
 Research Interests
 ------
 * **Mobile Systems**
-  - Distributed Computing
   - Mobile Operating Systems Design
   - User Interface Management
   - Edge Computing (IoT)
 * **AI-driven Systems**
   - LLM-based Task Automation
+  - Computer-use Agent
   - Agentic AI systems
-  - RAG systems
   - Human-AI-Computer Interaction (HACI)
 
 Publications
@@ -48,12 +47,14 @@ Click <a href="https://sunjae1294.github.io/publications/">here</a>!
 
 Professional Experience & Education
 ------
-* **Chief Technology Officer (CTO)**, <a href="https://www.fluiz.ai/">Fluiz Corp.</a> (July 2022 – Feb. 2024)  
+* **Assistant Professor**, SKKU, Department of Computer Science and Engineering (March. 2025 – Present)  
+
+* **Chief Technology Officer (CTO)**, <a href="https://www.fluiz.ai/">Fluiz Corp.</a> (July 2022 – Feb. 2025)  
   - Led the development of next-generation mobile operating systems and services.  
   - Managed partnerships, patents, and product development, resulting in awards like the CES 2023 Innovation Award.
   
-* **PhD in Computer Science**, KAIST, School of Computing (Sept. 2021 – Feb. 2025 (Expected))  
-  - Thesis: *Towards Ubiquitous and Intelligent Mobile Computing: From UI Distribution to Mobile AI agents*.  
+* **PhD in Computer Science**, KAIST, School of Computing (Sept. 2021 – Feb. 2025)  
+  - Thesis: *Towards Ubiquitous and Intelligent Mobile Computing: From UI Distribution to AI agent*.  
   - Advisor: Prof. Insik Shin.
 
 * **M.S. in Computer Science**, KAIST, School of Computing (Mar. 2019 – Feb. 2021)  
@@ -64,6 +65,8 @@ Professional Experience & Education
 
 Awards and Honors
 ------
+- **Outstanding Ph.D. Dissertation Award**
+  - Dissertation title: *Towards Ubiquitous and Intelligent Mobile Computing: From UI Distribution to AI agent*
 - **CES 2023 Innovation Award**
   - Fluiz won the CES 2023 Innovation Award for its multi-device mobile operating system.
 - **Minister's Award**, Ministry of Science and ICT, South Korea (Dec. 2022) 
@@ -73,12 +76,13 @@ Awards and Honors
 
 Patents
 ------
-1. **User interface distribution method for multi-device interaction** (Granted in Rep. Korea, 2022)
-2. **Secure user interface distribution method for heterogeneous multi-device interaction** (Published, Rep. Korea, 2019)
-3. **Method of transmitting UI display information based on smart contract** (Published, Rep. Korea, 2022)
-4. **Method of transceiving UI displays between user devices** (Published, Rep. Korea, 2022)
-5. **Method of transmitting UI display information to peripheral clients by a local server** (Published, Rep. Korea, 2022)
-6. **Secure user interface distribution method for heterogeneous multi-device interaction** (Published, US, 2022)
+1. **LLM-baed noninvasive application execution system for mobile task automation, and method thereof** (Granted in Rep. Korea, 2024)
+2. **User interface distribution method for multi-device interaction** (Granted in Rep. Korea, 2022)
+3. **Secure user interface distribution method for heterogeneous multi-device interaction** (Published, Rep. Korea, 2019)
+4. **Method of transmitting UI display information based on smart contract** (Published, Rep. Korea, 2022)
+5. **Method of transceiving UI displays between user devices** (Published, Rep. Korea, 2022)
+6. **Method of transmitting UI display information to peripheral clients by a local server** (Published, Rep. Korea, 2022)
+7. **Secure user interface distribution method for heterogeneous multi-device interaction** (Published, US, 2022)
 
 Academic Services
 ------
