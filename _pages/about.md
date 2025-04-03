@@ -15,8 +15,13 @@ My research lies at the intersection of <strong>mobile systems, artificial intel
 If you are interested in learning more about my research or exploring potential collaborations, please feel free to contact me at <a href="mailto:sunjae.lee@skku.edu"><strong>sunjae.lee@skku.edu</strong></a>.
 </div>
 
+Notice
+------
+I am currently looking for enthusiastic students to join my lab (B.S., M.S., and Ph.D. students). If you are interested in joining my lab, please feel free to contact me at <a href="mailto:sunjae.lee@skku.edu"><strong>sunjae.lee@skku.edu</strong></a>.
+
 News
 ------
+- **[Mar. 2025]** I joined SKKU as an Assistant Professor and launched the <a href="https://sites.google.com/view/fclab-skku">Future Computing Lab (FCLab)</a>.
 - **[Aug. 2024]** Our Paper *"MobileGPT: Augmenting LLM with Human-like App Memory for Mobile Task Automation"* got accepted to **MobiCom '24**.
 - **[May. 2024]** Our Paper *"FLUID-IoT : Flexible and Fine-Grained Access Control in Shared IoT Environments via Multi-user UI Distribution"* got accepted to **CHI '24**.
 - **[Jan. 2023]** Fluiz won a **Innovation Award** at CES 2023
