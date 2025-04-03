@@ -17,7 +17,7 @@ If you are interested in learning more about my research or exploring potential 
 
 Notice
 ------
-I am currently looking for enthusiastic students to join my lab (B.S., M.S., and Ph.D. students). If you are interested in joining my lab, please feel free to contact me at <a href="mailto:sunjae.lee@skku.edu"><strong>sunjae.lee@skku.edu</strong></a>.
+I am currently looking for enthusiastic students (B.S., M.S., and Ph.D.)to join my <a href="https://sites.google.com/view/fclab-skku">lab</a>. If you are interested in joining my lab, please feel free to contact me at <a href="mailto:sunjae.lee@skku.edu"><strong>sunjae.lee@skku.edu</strong></a>.
 
 News
 ------

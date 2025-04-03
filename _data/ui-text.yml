@@ -24,7 +24,7 @@ en: &DEFAULT_EN
   follow_label               : "Follow:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
-  website_label              : "Website"
+  website_label              : "Lab Homepage"
   email_label                : "sunjae.lee@skku.edu"
   recent_posts               : "Recent Posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
