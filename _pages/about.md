@@ -21,6 +21,7 @@ I am currently looking for enthusiastic students (B.S., M.S., and Ph.D.)to join 
 
 News
 ------
+- **[Nov. 2025]** Our Paper "VeriSafeAgent: Safeguarding Mobile GUI Agent via Logic-based Action Verification" got accepted to **ACM MobiCom '25**.
 - **[Mar. 2025]** I joined SKKU as an Assistant Professor and launched the <a href="https://sites.google.com/view/fclab-skku">Future Computing Lab (FCLab)</a>.
 - **[Aug. 2024]** Our Paper *"MobileGPT: Augmenting LLM with Human-like App Memory for Mobile Task Automation"* got accepted to **MobiCom '24**.
 - **[May. 2024]** Our Paper *"FLUID-IoT : Flexible and Fine-Grained Access Control in Shared IoT Environments via Multi-user UI Distribution"* got accepted to **CHI '24**.
