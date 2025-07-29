@@ -10,7 +10,7 @@ redirect_from:
 I am an Assistant Professor in the Department of Computer Science and Engineering at <strong>Sungkyunkwan University (SKKU).</strong> Prior to joining SKKU, I completed my PhD at KAIST, School of Computing, under the guidance of Professor Insik Shin.
 <br>
 <br>
-My research lies at the intersection of <strong>mobile systems, artificial intelligence, and human-computer interaction.</strong> I am particularly interested in designing and building <strong>next-generation computing technologies</strong>, including mobile operating systems, Agentic AI systems for task automation (Computer-use agent), and novel Human-AI-Computer Interaction (HACI). 
+My research lies at the intersection of <strong>artificial intelligence, mobile systems, and human-computer interaction.</strong> I am particularly interested in designing and building <strong>next-generation computing paradigm</strong>, including AI driven task automation (computer use agent), User Interface systems for ubiquitous mobile computing, and novel Human-AI-Computer Interaction (HACI). 
 <br>
 If you are interested in learning more about my research or exploring potential collaborations, please feel free to contact me at <a href="mailto:sunjae.lee@skku.edu"><strong>sunjae.lee@skku.edu</strong></a>.
 </div>
@@ -21,7 +21,7 @@ I am currently looking for enthusiastic students (B.S., M.S., and Ph.D.)to join 
 
 News
 ------
-- **[Nov. 2025]** Our Paper "VeriSafeAgent: Safeguarding Mobile GUI Agent via Logic-based Action Verification" got accepted to **ACM MobiCom '25**.
+- **[Nov. 2025]** Our Paper *"VeriSafeAgent: Safeguarding Mobile GUI Agent via Logic-based Action Verification"* got accepted to **ACM MobiCom '25**.
 - **[Mar. 2025]** I joined SKKU as an Assistant Professor and launched the <a href="https://sites.google.com/view/fclab-skku">Future Computing Lab (FCLab)</a>.
 - **[Aug. 2024]** Our Paper *"MobileGPT: Augmenting LLM with Human-like App Memory for Mobile Task Automation"* got accepted to **MobiCom '24**.
 - **[May. 2024]** Our Paper *"FLUID-IoT : Flexible and Fine-Grained Access Control in Shared IoT Environments via Multi-user UI Distribution"* got accepted to **CHI '24**.
