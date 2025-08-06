@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify;">
-I am an Assistant Professor in the Department of Computer Science and Engineering at <strong>Sungkyunkwan University (SKKU).</strong> Prior to joining SKKU, I completed my PhD at KAIST, School of Computing, under the guidance of Professor Insik Shin.
-<br>
-<br>
-My research lies at the intersection of <strong>artificial intelligence, mobile systems, and human-computer interaction.</strong> I am particularly interested in designing and building <strong>next-generation computing paradigm</strong>, including AI driven task automation (computer use agent), User Interface systems for ubiquitous mobile computing, and novel Human-AI-Computer Interaction (HACI). 
-<br>
-If you are interested in learning more about my research or exploring potential collaborations, please feel free to contact me at <a href="mailto:sunjae.lee@skku.edu"><strong>sunjae.lee@skku.edu</strong></a>.
+I am an Assistant Professor in the Department of Computer Science and Engineering at <strong>Sungkyunkwan University (SKKU).</strong> I design and build next-generation computing systems that seamlessly integrate AI with human workflows and everyday interfaces.
+<br><br>
+My recent work spans: <strong>GUI &amp; Computer Use Agents</strong> that enable AI to autonomously navigate and interact with any software interface; <strong>Distributable User Interface systems</strong> for ubiquitous and context-aware mobile computing; and <strong>Human-AI-Computer Interaction (HACI)</strong> systems that redefine how humans and AI collaborate.
+<br><br>
+Currently, my team is synthesizing these directions to pioneer the foundation of a <strong>next-generation operating system</strong>—one where intelligent systems understand user intent, adapt interfaces across devices and contexts, and work in harmony with people in their everyday digital environments.
+<br><br>
+If you're interested in learning more about my works or exploring potential collaborations, feel free to reach out at <a href="mailto:sunjae.lee@skku.edu"><strong>sunjae.lee@skku.edu</strong></a>.
 </div>
 
 Notice
