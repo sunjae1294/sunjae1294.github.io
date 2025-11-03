@@ -97,6 +97,8 @@ Patents
 
 Academic Services
 ------
+- **TPC**:
+  - IUI 2026, MobiSys 2026
 - **External Reviewer**: 
-  - CHI 2025, IUI 2025
+  - CHI 2025, IUI 2025, IJHCI
 
