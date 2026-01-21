@@ -22,6 +22,9 @@ I am currently looking for enthusiastic students (B.S., M.S., and Ph.D.)to join 
 
 News
 ------
+- **[Nov. 2025]** Our team Autophone(in collab with KAIST, Korea Univ.) has won **Grand Prize** at **AI Champion Competition** (1/630 teams)
+  - 기사: <a href="https://www.newsis.com/view/NISX20251105_0003391861">첫 韓 AI 챔피언 탄생…630개 팀 뚫어낸 '모바일 AI 에이전트' 연구</a>!
+  - 영상: <a href="https://www.youtube.com/watch?app=desktop&v=TPQFq6v_2ds">인공지능(AI) 연구개발 서바이벌 챔피언을 찾았다🏆｜ 2025년 AI 챔피언 대회 시상식</a>!
 - **[Nov. 2025]** Our Paper *"VeriSafeAgent: Safeguarding Mobile GUI Agent via Logic-based Action Verification"* got accepted to **ACM MobiCom '25**.
 - **[Mar. 2025]** I joined SKKU as an Assistant Professor and launched the <a href="https://sites.google.com/view/fclab-skku">Future Computing Lab (FCLab)</a>.
 - **[Aug. 2024]** Our Paper *"MobileGPT: Augmenting LLM with Human-like App Memory for Mobile Task Automation"* got accepted to **MobiCom '24**.
@@ -74,6 +77,9 @@ Professional Experience & Education
 
 Awards and Honors
 ------
+- **First Prize in AI Champion Competition (1/630 Teams)**
+  - **2025년도 인공지능 챔피언(AI Champion) 대회 최종 우승**
+  - AI Champion competition hosted by Ministry of Science and ICT, South Korea
 - **Outstanding Ph.D. Dissertation Award**
   - Dissertation title: *Towards Ubiquitous and Intelligent Mobile Computing: From UI Distribution to AI agent*
 - **Minister's Award**, Ministry of Science and ICT, South Korea (Dec. 2024) 
@@ -97,6 +103,8 @@ Patents
 
 Academic Services
 ------
+- **TPC**:
+  - IUI 2026, MobiSys 2026
 - **External Reviewer**: 
-  - CHI 2025, IUI 2025
+  - CHI 2025, IUI 2025, IJHCI
 
