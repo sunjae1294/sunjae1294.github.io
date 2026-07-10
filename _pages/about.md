@@ -22,6 +22,7 @@ I am currently looking for enthusiastic students (B.S., M.S., and Ph.D.)to join 
 
 News
 ------
+- **[July. 2026]** Our Paper *"AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents"* got accepted to **SIGCHI UIST 2026**.
 - **[Nov. 2025]** Our team Autophone(in collab with KAIST, Korea Univ.) has won **Grand Prize** at **AI Champion Competition** (1/630 teams)
   - 기사: <a href="https://www.newsis.com/view/NISX20251105_0003391861">첫 韓 AI 챔피언 탄생…630개 팀 뚫어낸 '모바일 AI 에이전트' 연구</a>!
   - 영상: <a href="https://www.youtube.com/watch?app=desktop&v=TPQFq6v_2ds">인공지능(AI) 연구개발 서바이벌 챔피언을 찾았다🏆｜ 2025년 AI 챔피언 대회 시상식</a>!
