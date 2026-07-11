@@ -7,22 +7,20 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify;">
-I am an Assistant Professor in the Department of Computer Science and Engineering at <strong>Sungkyunkwan University (SKKU).</strong> I design and build next-generation computing systems that seamlessly integrate AI with human workflows and everyday interfaces.
+I am an Assistant Professor in the Department of Computer Science and Engineering at <strong>Sungkyunkwan University (SKKU)</strong>, where I lead the <a href="https://sites.google.com/view/fclab-skku"><strong>Future Computing Lab (FCLab)</strong></a>. My research lies at the intersection of <strong>AI systems</strong>, <strong>human-computer interaction</strong>, and <strong>mobile and ubiquitous computing</strong>.
 <br><br>
-My recent work spans: <strong>GUI &amp; Computer Use Agents</strong> that enable AI to autonomously navigate and interact with any software interface; <strong>Distributable User Interface systems</strong> for ubiquitous and context-aware mobile computing; and <strong>Human-AI-Computer Interaction (HACI)</strong> systems that redefine how humans and AI collaborate.
+I am interested in <strong>computer-use agents</strong> that can understand and operate software interfaces, and in <strong>AI-native interfaces</strong> that move beyond today's app-centric interaction models. More broadly, I explore how intelligent systems can reshape the relationship between people, software, and the devices around them.
 <br><br>
-Currently, my team is synthesizing these directions to pioneer the foundation of a <strong>next-generation operating system</strong>—one where intelligent systems understand user intent, adapt interfaces across devices and contexts, and work in harmony with people in their everyday digital environments.
+A recurring theme in my work is the design of computing environments that are adaptive, reliable, and responsive to human intent. This includes rethinking how interfaces and computation are organized across devices and contexts, and how AI can participate meaningfully in everyday digital activities.
 <br><br>
-If you're interested in learning more about my works or exploring potential collaborations, feel free to reach out at <a href="mailto:sunjae.lee@skku.edu"><strong>sunjae.lee@skku.edu</strong></a>.
+Ultimately, I hope to contribute to a new computing paradigm in which AI is not merely added to existing software, but becomes a natural and trustworthy part of how computing systems are designed and experienced.
+<br><br>
+If you are interested in learning more about my work or exploring a collaboration, feel free to reach out at <a href="mailto:sunjae.lee@skku.edu"><strong>sunjae.lee@skku.edu</strong></a>.
 </div>
-
-Notice
-------
-I am currently looking for enthusiastic students (B.S., M.S., and Ph.D.)to join my <a href="https://sites.google.com/view/fclab-skku">lab</a>. If you are interested in joining my lab, please feel free to contact me at <a href="mailto:sunjae.lee@skku.edu"><strong>sunjae.lee@skku.edu</strong></a>.
 
 News
 ------
-- **[July. 2026]** Our Paper *"AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents"* got accepted to **SIGCHI UIST 2026**.
+- **[July. 2026]** Our Paper *"AgentLens: Adaptive Visual Modalities for Human-Agent Interaction in Mobile GUI Agents"* got accepted to **ACM UIST 2026**.
 - **[Nov. 2025]** Our team Autophone(in collab with KAIST, Korea Univ.) has won **Grand Prize** at **AI Champion Competition** (1/630 teams)
   - 기사: <a href="https://www.newsis.com/view/NISX20251105_0003391861">첫 韓 AI 챔피언 탄생…630개 팀 뚫어낸 '모바일 AI 에이전트' 연구</a>!
   - 영상: <a href="https://www.youtube.com/watch?app=desktop&v=TPQFq6v_2ds">인공지능(AI) 연구개발 서바이벌 챔피언을 찾았다🏆｜ 2025년 AI 챔피언 대회 시상식</a>!
@@ -108,4 +106,3 @@ Academic Services
   - IUI 2026, MobiSys 2026
 - **External Reviewer**: 
   - CHI 2025, IUI 2025, IJHCI
-
