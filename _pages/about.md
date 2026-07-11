@@ -40,15 +40,19 @@ News
 
 Research Interests
 ------
-* **Mobile Systems**
-  - Mobile Operating Systems Design
-  - User Interface Management
-  - Edge Computing (IoT)
-* **AI-driven Systems**
-  - LLM-based Task Automation
-  - Computer-use Agent
-  - Agentic AI systems
-  - Human-AI-Computer Interaction (HACI)
+* **Computer-Use Agents**
+  - GUI Understanding and Grounding
+  - GUI World Modeling
+  - Agent Runtime and Memory Systems
+  - Planning and Long-Horizon Task Execution
+* **AI-Native & Frontier Interfaces**
+  - Agentic and Generative Interfaces
+  - Human-Agent Interaction
+  - Distributed and Cross-Device Interfaces
+  - Emerging Device Platforms
+* **Reliability & Evaluation**
+  - Agent Benchmarks and Evaluation Harnesses
+  - Action Verification and Guardrails for Agents
 
 Publications
 ------
