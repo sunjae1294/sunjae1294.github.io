@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify;">
-I am an Assistant Professor in the Department of Computer Science and Engineering at <strong>Sungkyunkwan University (SKKU)</strong>, where I lead the <a href="https://sites.google.com/view/fclab-skku"><strong>Future Computing Lab (FCLab)</strong></a>. My research lies at the intersection of <strong>AI systems</strong>, <strong>human-computer interaction</strong>, and <strong>mobile and ubiquitous computing</strong>.
+I am an Assistant Professor in the Department of Computer Science and Engineering at <strong>Sungkyunkwan University (SKKU)</strong>, where I lead the <a href="https://sites.google.com/view/fclab-skku"><strong>Future Computing Lab (FCLab)</strong></a>. My research lies at the intersection of <strong>AI Agents</strong>, <strong>Frontier Interfaces</strong>, and <strong>human-computer interaction</strong>.
 <br><br>
 I am interested in <strong>computer-use agents</strong> that can understand and operate software interfaces, and in <strong>AI-native interfaces</strong> that move beyond today's app-centric interaction models. More broadly, I explore how intelligent systems can reshape the relationship between people, software, and the devices around them.
 <br><br>
-A recurring theme in my work is the design of computing environments that are adaptive, reliable, and responsive to human intent. This includes rethinking how interfaces and computation are organized across devices and contexts, and how AI can participate meaningfully in everyday digital activities.
-<br><br>
-Ultimately, I hope to contribute to a new computing paradigm in which AI is not merely added to existing software, but becomes a natural and trustworthy part of how computing systems are designed and experienced.
+Ultimately, I design a new computing paradigm in which AI is not merely added to existing software, but becomes a natural and trustworthy part of how computing systems are designed and experienced.
 <br><br>
 If you are interested in learning more about my work or exploring a collaboration, feel free to reach out at <a href="mailto:sunjae.lee@skku.edu"><strong>sunjae.lee@skku.edu</strong></a>.
 </div>
